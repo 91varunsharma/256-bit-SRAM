@@ -11,6 +11,10 @@ We have designed a synchronous SRAM. In this the read and write cycles are synch
 be used for fast applications.The address, control and data signals are controlled by the clock signal. 
 Synchronous SRAM is widely used for Cache and other applications requiring burst transfers.
 
-Read margin of 23% and Write margin of 41.9% was achieved while glitches were kept as low as 8mV.
-Maximum frequency achieved is 1.5GHz & it works on supply of as low as 780mV.
-The area of 6-T SRAM cell was less than 1um2 which led to the area efficient deisgn.
+Following Results were achieved:
+**Read margin = 23%**
+**Write margin = 41.9%**
+**Glitches were as low as 8mV**
+**Maximum frequency = 1.5GHz** 
+**Power suppply as low as 780mV**
+**Area of 6-T SRAM cell =0.96um2**
