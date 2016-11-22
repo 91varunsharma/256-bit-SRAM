@@ -14,8 +14,13 @@ Synchronous SRAM is widely used for Cache and other applications requiring burst
 Following Results were achieved:
 
 **Read margin = 23%**
+
 **Write margin = 41.9%**
+
 **Glitches were as low as 8mV**
+
 **Maximum frequency = 1.5GHz** 
+
 **Power suppply as low as 780mV**
+
 **Area of 6-T SRAM cell =0.96um2**
