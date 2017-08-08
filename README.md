@@ -9,7 +9,7 @@ Read and trip voltages were measured for different pull up, access and pull down
 There are multiple types of SRAMs being used now a days like Asynchronous, synchronous, special and non- volatile SRAMs. 
 We have designed a synchronous SRAM. In this the read and write cycles are synchronized with the clock signal so it can
 be used for fast applications.The address, control and data signals are controlled by the clock signal. 
-Synchronous SRAM is widely used for Cache and other applications requiring burst transfers.
+Synchronous SRAM is widely used for Cache and other applications requiring faster data transfer as it is faster than DRAM.
 
 Following Results were achieved:
 
